@@ -1,1 +1,3 @@
 # portifolio2023DS
+
+O objetivo deste repositório é comunicar as horas cumpridas no programa P-TECH para o 2º ano do curso de Desenvolvimento de Sistemas, através das palestras e dos cursos realizados na plataforma SkillBuilds, e também o projeto de desenvolvimento de um site.
